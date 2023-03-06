@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hapistolero
-- 👀 I’m interested in fullstack web development and desktop programming
+- 👀 I’m interested in fullstack web development
 - 🌱 I’m currently learning react js, back-end development
 - 💞️ I’m looking to collaborate on project 
 - 📫 How to reach me in Instagram: @hapeaces

@@ -4,7 +4,12 @@
 - 💞️ I’m looking to collaborate on project 
 - 📫 How to reach me in Instagram: @hapeaces-
 
-  <h1>Hafiz Ilham Ardana</h1>
+<style>
+  h1{
+    margin:auto;
+  }
+</style>
+  <h1 >Hafiz Ilham Ardana</h1>
 
 <!---
 hapistolero/hapistolero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
